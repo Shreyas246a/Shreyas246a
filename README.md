@@ -8,10 +8,8 @@
 ## 🧠 About Me
 
 - 💻 Currently building an **E-Commerce backend** using Spring Boot
-- 🧪 Practicing **DSA** and learning **Java Collections**, **Spring Security**, and **Docker**
+- 🧪 Practicing **DSA** and learning **Java**
 - 📦 Interested in **DevOps**, CI/CD pipelines, and cloud-native apps
-- 🎮 Gamer after hours – Metal Gear & Delta Force squad 💥
-
 ---
 
 ## 🛠️ Tech Stack
@@ -50,7 +48,7 @@
 ## 🚧 Current Project
 
 **🛒 E-Commerce Backend**  
-Tech: Spring Boot · MongoDB · JWT · File Upload · Custom Exception Handling  
+Tech: Spring Boot · MySQL · JWT · File Upload · Custom Exception Handling  
 💡 In progress: Spring Security, ResponseEntity, Dockerization  
 
 ---
