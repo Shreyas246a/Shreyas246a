@@ -58,8 +58,8 @@ Tech: Spring Boot · MongoDB · JWT · File Upload · Custom Exception Handling
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyasanchatageri&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasanchatageri&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreyas246a&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas246a&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
