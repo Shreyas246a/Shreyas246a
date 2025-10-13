@@ -47,9 +47,7 @@
 
 ## 🚧 Current Project
 
-**🛒 E-Commerce Backend**  
-Tech: Spring Boot · MySQL · JWT · File Upload · Custom Exception Handling  
-💡 In progress: Spring Security, ResponseEntity, Dockerization  
+**THINKINGGGGGGG.......
 
 ---
 
