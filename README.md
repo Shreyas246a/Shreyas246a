@@ -64,9 +64,9 @@ Tech: Spring Boot · MySQL · JWT · File Upload · Custom Exception Handling
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 🧑‍💻 [Portfolio](https://your-portfolio-link.com)  
-- ✉️ Email: your.email@example.com
+- 💼 [LinkedIn](www.linkedin.com/in/shreyas-anchatageri-87952b2a5)  
+- 🧑‍💻 [Portfolio](In Progress....)  
+- ✉️ Email: shreyas246anchatgeri@gmail.com
 
 ---
 
