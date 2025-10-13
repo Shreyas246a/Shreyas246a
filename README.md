@@ -59,7 +59,11 @@
 </p>
 
 ---
-[![LeetCode Stats](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/shreyas246anchatgeri/)
+## 💻 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/shreyas246anchatgeri?theme=dark" alt="LeetCode Stats" height="150"/>
+</p>
+
 ---
 ## 📬 Let's Connect
 
