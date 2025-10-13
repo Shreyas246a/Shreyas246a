@@ -7,8 +7,8 @@
 
 ## 🧠 About Me
 
-- 💻 Currently building an **E-Commerce backend** using Spring Boot
-- 🧪 Practicing **DSA** and learning **Java**
+- 💻 Currently learning Java Full Stack
+- 🧪 Practicing **DSA** using **Java**
 - 📦 Interested in **DevOps**, CI/CD pipelines, and cloud-native apps
 ---
 
