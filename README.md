@@ -61,7 +61,8 @@ Tech: Spring Boot · MySQL · JWT · File Upload · Custom Exception Handling
 </p>
 
 ---
-
+[![LeetCode Stats](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/shreyas246anchatgeri/)
+---
 ## 📬 Let's Connect
 
 - 💼 [LinkedIn](www.linkedin.com/in/shreyas-anchatageri-87952b2a5)  
