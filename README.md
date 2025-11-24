@@ -46,8 +46,7 @@
 ---
 
 ## 🚧 Current Project
-
-**THINKINGGGGGGG.......
+Expense Tracker with SpringBoot,mySql and React
 
 ---
 
